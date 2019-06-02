@@ -285,7 +285,7 @@ void attributeValue(int syncset[]){
 }
 
 // Main
-/*
+
 int main (int argc,char* args[]) {
     if(argc > 1) {
         if (!(fuente=fopen(args[1],"rt"))) {
@@ -302,4 +302,3 @@ int main (int argc,char* args[]) {
     }
     return 0;
 }
-*/
